@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "level": "Beginner",
+        "name": "Jumping Jacks",
+        "time": 10,
+        "calories": 50,
+        "description": "A full body exercise that increases aerobic fitness, strengthens muscles, and promotes cardiovascular health.",
+        "url": "PBHUfBzxczU"
+    },
+    {
+        "id": 2,
+        "level": "Beginner",
+        "name": "Push-ups",
+        "time": 5,
+        "calories": 30,
+        "description": "An upper body exercise that strengthens the chest, shoulders, triceps, and core muscles.",
+        "url": "yQEx9OC2C3E"
+    },
+    {
+        "id": 3,
+        "level": "Beginner",
+        "name": "Squats",
+        "time": 8,
+        "calories": 40,
+        "description": "A lower body exercise that targets the thighs, hips, and buttocks.",
+        "url": "PPmvh7gBTi0"
+    },
+    {
+        "id": 4,
+        "level": "Beginner",
+        "name": "Lunges",
+        "time": 6,
+        "calories": 35,
+        "description": "An exercise that strengthens the legs and glutes while improving balance and coordination.",
+        "url": "MxfTNXSFiYI"
+    },
+    {
+        "id": 5,
+        "level": "Beginner",
+        "name": "Plank",
+        "time": 4,
+        "calories": 20,
+        "description": "A core strength exercise that improves stability and endurance.",
+        "url": "pvIjsG5Svck"
+    },
+    {
+        "id": 6,
+        "level": "Beginner",
+        "name": "Mountain Climbers",
+        "time": 7,
+        "calories": 45,
+        "description": "A full body workout that increases heart rate and strengthens multiple muscle groups.",
+        "url": "nmwgirgXLYM"
+    },
+    {
+        "id": 7,
+        "level": "Beginner",
+        "name": "Burpees",
+        "time": 5,
+        "calories": 50,
+        "description": "A high-intensity full body exercise that improves cardiovascular fitness and muscle strength.",
+        "url": "auBLPXO8Fww"
+    },
+    {
+        "id": 8,
+        "level": "Beginner",
+        "name": "High Knees",
+        "time": 4,
+        "calories": 25,
+        "description": "A cardiovascular exercise that boosts leg strength and endurance.",
+        "url": "ZNDHivUg7vA"
+    },
+    {
+        "id": 9,
+        "level": "Beginner",
+        "name": "Butt Kicks",
+        "time": 4,
+        "calories": 20,
+        "description": "An aerobic exercise that helps improve running form and strengthens the hamstrings.",
+        "url": "-dtvAxibgYQ"
+    },
+    {
+        "id": 10,
+        "level": "Beginner",
+        "name": "Arm Circles",
+        "time": 3,
+        "calories": 15,
+        "description": "An exercise that warms up the shoulders and arms, improving flexibility and mobility.",
+        "url": "xBl8xP1z8WA"
+    },
+    {
+        "id": 11,
+        "level": "Beginner",
+        "name": "Side Leg Raises",
+        "time": 5,
+        "calories": 30,
+        "description": "An exercise that targets the hip abductor muscles and improves balance.",
+        "url": "pNismoYr1Fg"
+    },
+    {
+        "id": 12,
+        "level": "Beginner",
+        "name": "Bicycle Crunches",
+        "time": 6,
+        "calories": 35,
+        "description": "A core exercise that targets the abs and obliques while improving overall core strength.",
+        "url": "1we3bh9uhqY"
+    },
+    {
+        "id": 13,
+        "level": "Beginner",
+        "name": "Wall Sit",
+        "time": 5,
+        "calories": 25,
+        "description": "An isometric exercise that strengthens the quadriceps and improves endurance.",
+        "url": "cWTZ8Am1Ee0"
+    },
+    {
+        "id": 14,
+        "level": "Beginner",
+        "name": "Calf Raises",
+        "time": 4,
+        "calories": 20,
+        "description": "An exercise that targets the calf muscles, improving strength and stability.",
+        "url": "eMTy3qylqnE"
+    },
+    {
+        "id": 15,
+        "level": "Beginner",
+        "name": "Tricep Dips",
+        "time": 5,
+        "calories": 30,
+        "description": "An exercise that targets the triceps, shoulders, and chest muscles.",
+        "url": "6kALZikXxLc"
+    }
+]

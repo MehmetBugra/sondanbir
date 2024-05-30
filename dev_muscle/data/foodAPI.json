@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "food_name": "Rice",
+    "protein": 10,
+    "carb": 20,
+    "fat": 5,
+    "cal": 200
+  },
+  {
+    "id": 2,
+    "food_name": "Grilled Chicken",
+    "protein": 15,
+    "carb": 25,
+    "fat": 8,
+    "cal": 250
+  },
+  {
+    "id": 3,
+    "food_name": "Salad",
+    "protein": 8,
+    "carb": 30,
+    "fat": 3,
+    "cal": 180
+  },
+  {
+    "id": 4,
+    "food_name": "Meatball",
+    "protein": 12,
+    "carb": 15,
+    "fat": 10,
+    "cal": 220
+  },
+  {
+    "id": 5,
+    "food_name": "Lentil Soup",
+    "protein": 6,
+    "carb": 25,
+    "fat": 3,
+    "cal": 150
+  },
+  {
+    "id": 6,
+    "food_name": "Baked Chicken",
+    "protein": 20,
+    "carb": 10,
+    "fat": 12,
+    "cal": 280
+  },
+  {
+    "id": 7,
+    "food_name": "Pasta",
+    "protein": 8,
+    "carb": 35,
+    "fat": 6,
+    "cal": 230
+  },
+  {
+    "id": 8,
+    "food_name": "Grilled Fish",
+    "protein": 18,
+    "carb": 5,
+    "fat": 15,
+    "cal": 270
+  },
+  {
+    "id": 9,
+    "food_name": "Omelet",
+    "protein": 10,
+    "carb": 3,
+    "fat": 8,
+    "cal": 180
+  },
+  {
+    "id": 10,
+    "food_name": "Cauliflower Gratin",
+    "protein": 5,
+    "carb": 20,
+    "fat": 7,
+    "cal": 160
+  },
+  {
+    "id": 11,
+    "food_name": "French Fries",
+    "protein": 3,
+    "carb": 30,
+    "fat": 15,
+    "cal": 250
+  },
+  {
+    "id": 12,
+    "food_name": "Spinach Dish",
+    "protein": 7,
+    "carb": 10,
+    "fat": 4,
+    "cal": 120
+  },
+  {
+    "id": 13,
+    "food_name": "Chicken Curry",
+    "protein": 22,
+    "carb": 15,
+    "fat": 10,
+    "cal": 290
+  },
+  {
+    "id": 14,
+    "food_name": "Yogurt Salad",
+    "protein": 5,
+    "carb": 10,
+    "fat": 3,
+    "cal": 100
+  },
+  {
+    "id": 15,
+    "food_name": "Cheese Toast",
+    "protein": 7,
+    "carb": 20,
+    "fat": 10,
+    "cal": 220
+  },
+  {
+    "id": 16,
+    "food_name": "Sauteed Mushrooms",
+    "protein": 6,
+    "carb": 8,
+    "fat": 5,
+    "cal": 130
+  },
+  {
+    "id": 17,
+    "food_name": "Vegetable Bulgur Pilaf",
+    "protein": 9,
+    "carb": 30,
+    "fat": 4,
+    "cal": 210
+  },
+  {
+    "id": 18,
+    "food_name": "Shepherd Salad",
+    "protein": 5,
+    "carb": 15,
+    "fat": 6,
+    "cal": 150
+  },
+  {
+    "id": 19,
+    "food_name": "Lamb Skewers",
+    "protein": 25,
+    "carb": 5,
+    "fat": 18,
+    "cal": 320
+  },
+  {
+    "id": 20,
+    "food_name": "Lahmacun",
+    "protein": 12,
+    "carb": 25,
+    "fat": 10,
+    "cal": 240
+  },
+  {
+    "id": 21,
+    "food_name": "Roasted Eggplant",
+    "protein": 3,
+    "carb": 10,
+    "fat": 2,
+    "cal": 80
+  },
+  {
+    "id": 22,
+    "food_name": "Baked Chicken with Vegetables",
+    "protein": 18,
+    "carb": 15,
+    "fat": 10,
+    "cal": 270
+  },
+  {
+    "id": 23,
+    "food_name": "Lentil Pilaf",
+    "protein": 7,
+    "carb": 25,
+    "fat": 4,
+    "cal": 190
+  },
+  {
+    "id": 24,
+    "food_name": "Grilled Vegetables",
+    "protein": 4,
+    "carb": 15,
+    "fat": 3,
+    "cal": 100
+  },
+  {
+    "id": 25,
+    "food_name": "Baked Potatoes",
+    "protein": 3,
+    "carb": 30,
+    "fat": 5,
+    "cal": 180
+  },
+  {
+    "id": 26,
+    "food_name": "Beans and Pilaf",
+    "protein": 9,
+    "carb": 30,
+    "fat": 5,
+    "cal": 220
+  },
+  {
+    "id": 27,
+    "food_name": "Mushroom Omelet",
+    "protein": 12,
+    "carb": 5,
+    "fat": 10,
+    "cal": 200
+  },
+  {
+    "id": 28,
+    "food_name": "Roasted Potatoes",
+    "protein": 5,
+    "carb": 30,
+    "fat": 6,
+    "cal": 210
+  },
+  {
+    "id": 29,
+    "food_name": "Chicken with Chickpeas",
+    "protein": 20,
+    "carb": 25,
+    "fat": 7,
+    "cal": 280
+  },
+  {
+    "id": 30,
+    "food_name": "Lentil Patties",
+    "protein": 15,
+    "carb": 20,
+    "fat": 5,
+    "cal": 230
+  }
+]

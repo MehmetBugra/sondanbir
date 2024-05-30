@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "level": "Intermediate",
+        "name": "Pull-ups",
+        "time": 5,
+        "calories": 50,
+        "description": "An upper body exercise that strengthens the back, shoulders, and arms.",
+        "url": "aXIbyf4EnDU"
+    },
+    {
+        "id": 2,
+        "level": "Intermediate",
+        "name": "Pistol Squats",
+        "time": 6,
+        "calories": 40,
+        "description": "A single-leg squat that enhances balance, strength, and flexibility.",
+        "url": "kFognC-0BUU"
+    },
+    {
+        "id": 3,
+        "level": "Intermediate",
+        "name": "Russian Twists",
+        "time": 5,
+        "calories": 30,
+        "description": "A core exercise that targets the obliques and improves rotational strength.",
+        "url": "wkD8rjkodUI"
+    },
+    {
+        "id": 4,
+        "level": "Intermediate",
+        "name": "Box Jumps",
+        "time": 5,
+        "calories": 45,
+        "description": "A plyometric exercise that improves leg strength, power, and agility.",
+        "url": "NBY9-kTuHEk"
+    },
+    {
+        "id": 5,
+        "level": "Intermediate",
+        "name": "Tuck Jumps",
+        "time": 4,
+        "calories": 35,
+        "description": "A high-intensity jump exercise that boosts cardiovascular fitness and leg strength.",
+        "url": "r7oBejx1PHM"
+    },
+    {
+        "id": 6,
+        "level": "Intermediate",
+        "name": "Renegade Rows",
+        "time": 6,
+        "calories": 40,
+        "description": "A full body exercise that targets the back, shoulders, and core muscles.",
+        "url": "OlpPaGyywyY"
+    },
+    {
+        "id": 7,
+        "level": "Intermediate",
+        "name": "Dumbbell Thrusters",
+        "time": 7,
+        "calories": 55,
+        "description": "A compound movement that combines a squat and overhead press to work multiple muscle groups.",
+        "url": "-rHJkjHUbmo"
+    },
+    {
+        "id": 8,
+        "level": "Intermediate",
+        "name": "Plank to Push-up",
+        "time": 5,
+        "calories": 30,
+        "description": "An exercise that transitions from a plank to a push-up, enhancing core and upper body strength.",
+        "url": "56vUOad6Irs"
+    },
+    {
+        "id": 9,
+        "level": "Intermediate",
+        "name": "Jump Rope",
+        "time": 10,
+        "calories": 70,
+        "description": "A cardiovascular exercise that improves coordination, endurance, and leg strength.",
+        "url": "Z5m1O5niSr0"
+    },
+    {
+        "id": 10,
+        "level": "Intermediate",
+        "name": "Kettlebell Swings",
+        "time": 5,
+        "calories": 40,
+        "description": "A dynamic movement that targets the hips, glutes, and core while boosting cardiovascular fitness.",
+        "url": "SR_4kUbkEaw"
+    },
+    {
+        "id": 11,
+        "level": "Intermediate",
+        "name": "Burpee to Pull-up",
+        "time": 6,
+        "calories": 60,
+        "description": "A combination exercise that integrates a burpee and pull-up to work the entire body.",
+        "url": "jVzrLDIRqnE"
+    },
+    {
+        "id": 12,
+        "level": "Intermediate",
+        "name": "Single-leg Deadlift",
+        "time": 5,
+        "calories": 35,
+        "description": "An exercise that targets the hamstrings, glutes, and core while improving balance.",
+        "url": "ep4ia78FTBQ"
+    },
+    {
+        "id": 13,
+        "level": "Intermediate",
+        "name": "Side Plank with Leg Lift",
+        "time": 4,
+        "calories": 25,
+        "description": "A core exercise that strengthens the obliques and hips.",
+        "url": "ZZkgopVBPMg"
+    },
+    {
+        "id": 14,
+        "level": "Intermediate",
+        "name": "Medicine Ball Slams",
+        "time": 5,
+        "calories": 50,
+        "description": "A power exercise that targets the entire body, especially the core and shoulders.",
+        "url": "QxYhFwMd1Ks"
+    },
+    {
+        "id": 15,
+        "level": "Intermediate",
+        "name": "TRX Rows",
+        "time": 6,
+        "calories": 40,
+        "description": "A suspension training exercise that strengthens the back, shoulders, and core.",
+        "url": "IEky4NL3LLQ"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "level": "Advance",
+        "name": "Muscle-ups",
+        "time": 5,
+        "calories": 60,
+        "description": "An advanced upper body exercise combining a pull-up and a dip to build strength and power.",
+        "url": "hNmqYyLQTIo"
+    },
+    {
+        "id": 2,
+        "level": "Advance",
+        "name": "Plyometric Push-ups",
+        "time": 4,
+        "calories": 40,
+        "description": "An explosive push-up variation that increases upper body power and strength.",
+        "url": "Y-uF4F3mQIs"
+    },
+    {
+        "id": 3,
+        "level": "Advance",
+        "name": "One-Arm Push-ups",
+        "time": 5,
+        "calories": 50,
+        "description": "A challenging push-up variation that targets chest, shoulders, and triceps with increased intensity.",
+        "url": "7IjpajC-Gfw"
+    },
+    {
+        "id": 4,
+        "level": "Advance",
+        "name": "Pistol Squats",
+        "time": 6,
+        "calories": 45,
+        "description": "A single-leg squat exercise that enhances balance, strength, and flexibility.",
+        "url": "kFognC-0BUU"
+    },
+    {
+        "id": 5,
+        "level": "Advance",
+        "name": "Handstand Push-ups",
+        "time": 7,
+        "calories": 55,
+        "description": "An advanced upper body exercise that strengthens shoulders, arms, and core.",
+        "url": "q5sbqedk5tc"
+    },
+    {
+        "id": 6,
+        "level": "Advance",
+        "name": "L-sit",
+        "time": 4,
+        "calories": 30,
+        "description": "A core and upper body exercise that improves strength and stability.",
+        "url": "RkLUSpe1Ilk"
+    },
+    {
+        "id": 7,
+        "level": "Advance",
+        "name": "Front Lever",
+        "time": 5,
+        "calories": 40,
+        "description": "A demanding core and back exercise that builds impressive upper body strength.",
+        "url": "lbuDVlRE7cs"
+    },
+    {
+        "id": 8,
+        "level": "Advance",
+        "name": "Back Lever",
+        "time": 5,
+        "calories": 40,
+        "description": "An advanced gymnastic move that strengthens the back, shoulders, and core.",
+        "url": "0CD5Pqs5FCw"
+    },
+    {
+        "id": 9,
+        "level": "Advance",
+        "name": "Dragon Flags",
+        "time": 4,
+        "calories": 35,
+        "description": "A highly challenging core exercise popularized by Bruce Lee, focusing on full body tension and control.",
+        "url": "pvz7k5gO-DE"
+    },
+    {
+        "id": 10,
+        "level": "Advance",
+        "name": "Plyometric Box Jumps",
+        "time": 5,
+        "calories": 50,
+        "description": "An explosive leg exercise that enhances power, speed, and coordination.",
+        "url": "CJ-ku2jUQgs"
+    },
+    {
+        "id": 11,
+        "level": "Advance",
+        "name": "Kettlebell Snatch",
+        "time": 6,
+        "calories": 55,
+        "description": "A full-body exercise that builds strength, power, and endurance.",
+        "url": "Pm-b2XFeABA"
+    },
+    {
+        "id": 12,
+        "level": "Advance",
+        "name": "Turkish Get-Up",
+        "time": 7,
+        "calories": 50,
+        "description": "A complex exercise that improves full-body strength, stability, and coordination.",
+        "url": "sgd8n917Zv0"
+    },
+    {
+        "id": 13,
+        "level": "Advance",
+        "name": "Single-leg Romanian Deadlift",
+        "time": 6,
+        "calories": 45,
+        "description": "An advanced exercise that targets the hamstrings, glutes, and core while improving balance.",
+        "url": "ep4ia78FTBQ"
+    },
+    {
+        "id": 14,
+        "level": "Advance",
+        "name": "Weighted Pull-ups",
+        "time": 5,
+        "calories": 60,
+        "description": "A pull-up variation with added weight to increase intensity and upper body strength.",
+        "url": "hLXp380zB84"
+    },
+    {
+        "id": 15,
+        "level": "Advance",
+        "name": "Battle Ropes",
+        "time": 8,
+        "calories": 70,
+        "description": "A high-intensity exercise that builds strength and endurance in the arms, shoulders, and core.",
+        "url": "zw0OMi00X5g"
+    }
+]

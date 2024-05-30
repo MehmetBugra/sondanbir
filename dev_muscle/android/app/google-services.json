@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "993166224200",
+    "firebase_url": "https://devmuscles-353ee-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "devmuscles-353ee",
+    "storage_bucket": "devmuscles-353ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993166224200:android:dd513fbd0d065e23a3217d",
+        "android_client_info": {
+          "package_name": "com.example.dev_muscle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993166224200-j0r3j595qa9uiidvgv971l3krr8548lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkY5AQ6EcxNEeVVn7k_qUv1dXeyc53v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993166224200-j0r3j595qa9uiidvgv971l3krr8548lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993166224200-nlhibf170d4bj2cqki3a4b9j30tited6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devMuscleChatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993166224200:android:3f072efc3248d20ca3217d",
+        "android_client_info": {
+          "package_name": "com.example.dev_muscle_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993166224200-j0r3j595qa9uiidvgv971l3krr8548lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkY5AQ6EcxNEeVVn7k_qUv1dXeyc53v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993166224200-j0r3j595qa9uiidvgv971l3krr8548lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993166224200-nlhibf170d4bj2cqki3a4b9j30tited6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devMuscleChatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993166224200:android:d40583c3794e2e9fa3217d",
+        "android_client_info": {
+          "package_name": "com.example.fitness_clup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993166224200-j0r3j595qa9uiidvgv971l3krr8548lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkY5AQ6EcxNEeVVn7k_qUv1dXeyc53v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993166224200-j0r3j595qa9uiidvgv971l3krr8548lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993166224200-nlhibf170d4bj2cqki3a4b9j30tited6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devMuscleChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
