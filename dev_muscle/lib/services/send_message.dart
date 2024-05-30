@@ -1,5 +1,4 @@
 import 'package:cosmos/cosmos.dart';
-import 'package:dev_muscle/pages/main/pages/personaltrainersList/ptInfo.dart';
 import 'package:dev_muscle/variables/chat.dart';
 import 'package:dev_muscle/variables/colors.dart';
 import 'package:flutter/cupertino.dart';
@@ -17,11 +16,7 @@ Future<void> sendMessage(
     value: [
       uid,
       tag,
-      '- ${TextButton(onPressed: () {
-            Navigator.push(context, CupertinoPageRoute(builder: (context) {
-              return PTInfo(trainer: userInfo);
-            }));
-          }, child: Text("aaaa"))}\n\n${chatMessageController.text}',
+      '${chatMessageController.text}\n\n${userInfo["Name"]} ${userInfo["Surname"]}',
       CosmosTime.getNowTimeString(),
       "message",
     ],

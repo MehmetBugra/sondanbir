@@ -8,7 +8,6 @@ import 'package:dev_muscle/variables/colors.dart';
 import 'package:dev_muscle/widgets/workouts/calories.dart';
 import 'package:dev_muscle/widgets/workouts/circle.dart';
 import 'package:dev_muscle/widgets/workouts/eatenFoods.dart';
-// import 'package:dev_muscle/widgets/workouts/finishedWorkouts.dart';
 import 'package:dev_muscle/widgets/workouts/myCalendar.dart';
 import 'package:flutter/material.dart';
 
@@ -24,14 +23,12 @@ class _WorkoutsPageState extends State<WorkoutsPage> {
   late int _year;
   late int _month;
   late int _day;
-  late int userKg;
 
   @override
   void initState() {
     _year = DateTime.now().year;
     _month = DateTime.now().month;
     _day = DateTime.now().day;
-    userKg = widget.userInfo["Weight"];
     super.initState();
   }
 
@@ -63,6 +60,7 @@ class _WorkoutsPageState extends State<WorkoutsPage> {
                     userInf["Gender"],
                     userInf["Age"]);
                 Map<String, dynamic> data = snapshot.data!;
+                print(data);
                 data.forEach((key, value) {
                   carb += value['carb'];
                   protein += value['protein'];
@@ -115,7 +113,6 @@ class _WorkoutsPageState extends State<WorkoutsPage> {
                         : const SizedBox(),
                     EatenFoods(foods: data.entries.toList()),
                     const SizedBox(height: 30),
-                    // FinishedWorkouts(),
                   ],
                 );
               }

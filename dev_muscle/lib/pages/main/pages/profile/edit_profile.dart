@@ -1,3 +1,5 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:dev_muscle/components/styles.dart';
 import 'package:dev_muscle/functions/accountFuncs/accountFuncs.dart';
 import 'package:dev_muscle/variables/colors.dart';

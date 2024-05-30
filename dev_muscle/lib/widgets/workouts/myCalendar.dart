@@ -1,3 +1,5 @@
+// ignore_for_file: must_be_immutable, camel_case_types
+
 import 'package:dev_muscle/variables/colors.dart';
 import 'package:dev_muscle/widgets/workouts/carouselCal/carouselCal.dart';
 import 'package:flutter/material.dart';
@@ -18,12 +20,13 @@ class _myCalendarState extends State<myCalendar> {
     return Container(
       decoration: BoxDecoration(
         color: button_color,
-        borderRadius: BorderRadius.only(
+        borderRadius: const BorderRadius.only(
             bottomLeft: Radius.circular(30), bottomRight: Radius.circular(30)),
       ),
       width: double.infinity,
       child: Padding(
-        padding: EdgeInsets.only(top: 60, left: 24, right: 24, bottom: 24),
+        padding:
+            const EdgeInsets.only(top: 60, left: 24, right: 24, bottom: 24),
         child: carouselCal(
           onChanged: (DateTime date) {
             setState(() {
@@ -39,8 +42,8 @@ class _myCalendarState extends State<myCalendar> {
           unselectedTextColor: Colors.white,
           selectedColor: high_green,
           unselectedColor: calUnselected_color,
-          monthSelectorMargin: EdgeInsets.only(bottom: 30),
-          weekdayMargin: EdgeInsets.all(5),
+          monthSelectorMargin: const EdgeInsets.only(bottom: 30),
+          weekdayMargin: const EdgeInsets.all(5),
         ),
       ),
     );

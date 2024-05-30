@@ -1,3 +1,5 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:dev_muscle/components/styles.dart';
 import 'package:dev_muscle/variables/colors.dart';
 import 'package:flutter/cupertino.dart';
@@ -60,6 +62,5 @@ class CircleParts extends StatelessWidget {
         ],
       ),
     );
-    ;
   }
 }

@@ -1,6 +1,9 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:dev_muscle/components/styles.dart';
 import 'package:flutter/material.dart';
 
+// ignore: camel_case_types
 class Profile_Head extends StatelessWidget {
   String name;
   String surname;

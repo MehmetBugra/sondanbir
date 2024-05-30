@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
+// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, must_be_immutable
 
 import 'package:dev_muscle/components/styles.dart';
 import 'package:dev_muscle/widgets/workouts/parts/EatenFoodsCard.dart';

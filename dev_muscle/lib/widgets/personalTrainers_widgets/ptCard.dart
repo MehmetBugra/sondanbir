@@ -1,9 +1,10 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:dev_muscle/components/styles.dart';
 import 'package:dev_muscle/variables/colors.dart';
 import 'package:dev_muscle/pages/main/pages/personaltrainersList/ptInfo.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class PTCard extends StatelessWidget {
   Map<String, dynamic> trainer;

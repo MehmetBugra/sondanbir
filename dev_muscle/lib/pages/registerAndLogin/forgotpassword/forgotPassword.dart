@@ -1,10 +1,10 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:dev_muscle/components/styles.dart';
 import 'package:dev_muscle/variables/colors.dart';
 import 'package:dev_muscle/widgets/register_widgets/fields.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class ForgotPassword extends StatelessWidget {
   ForgotPassword({super.key});

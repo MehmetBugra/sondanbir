@@ -1,7 +1,4 @@
 import 'package:dev_muscle/components/styles.dart';
-import 'package:dev_muscle/functions/exercises/exercises.dart';
-import 'package:dev_muscle/variables/routes.dart';
-import 'package:dev_muscle/widgets/mainpage_widgets/homepage_widgets/parts/workout_card.dart';
 import 'package:flutter/material.dart';
 
 class TodayWorkoutPlan extends StatelessWidget {
@@ -25,11 +22,6 @@ class TodayWorkoutPlan extends StatelessWidget {
           ],
         ),
         const SizedBox(height: 17),
-        // WorkoutCard(
-        // width: double.infinity,
-        // route: workoutPageRoute,
-        // exercise: getExercises()["Beginner"][0],
-        // ),
       ],
     );
   }
